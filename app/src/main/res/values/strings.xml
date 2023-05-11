@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clicker-app</string>
+    <string name="clickButton">Нажми</string>
+    <string name="clickText">Клики</string>
+</resources>
